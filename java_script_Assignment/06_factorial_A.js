@@ -9,6 +9,8 @@ function factorialOfNum(num)
         } else if(typeof num=="number")
         {
            factorial = factorial * index;   // 5*4*3*2*1 
+           
+           
         }  
      }
     return factorial;
